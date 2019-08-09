@@ -1,4 +1,4 @@
-var home_Path = document.location.protocol +'//' + window.document.location.hostname +'/';
+﻿var home_Path = document.location.protocol +'//' + window.document.location.hostname +'/';
 
 var userAgent = window.navigator.userAgent.toLowerCase();
 console.log(userAgent);
@@ -446,7 +446,7 @@ if(!norunFlag){
 	}
 	$(document).ready(function() {
 		var AIimgSrc = [
-			 "http://localhost:4000/live2d/model/rem/remu2048/texture_00.png "
+			 "https://qa8988999.github.io/2019/08/09/live2d/live2d/model/rem/remu2048/texture_00.png "
 		]
 		var images = [];
 		var imgLength = AIimgSrc.length;
