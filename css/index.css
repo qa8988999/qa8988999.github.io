@@ -2930,7 +2930,7 @@ img:hover {
   text-shadow: none;
 }
 .read-mode #top-container #page-header.fixed {
-  background-color: #4c4948;
+  background: none;
   -webkit-box-shadow: none;
   box-shadow: none;
 }
