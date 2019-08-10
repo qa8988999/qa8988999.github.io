@@ -2930,13 +2930,10 @@ img:hover {
   text-shadow: none;
 }
 .read-mode #top-container #page-header.fixed {
-  background: none;
-  -webkit-box-shadow: box-shadow;
-  box-shadow: box-shadow;
+  background-color: #4c4948;
+  -webkit-box-shadow: none;
+  box-shadow: none;
 }
-.read-mode #top-container #page-header.fixed : 0 5px 6px -5px rgba(133 .site-page,
-.read-mode #top-container #page-header.fixed 133 .site-page,
-.read-mode #top-container #page-header.fixed 0) .site-page,
 .read-mode #top-container #page-header.fixed.open-sidebar .site-page {
   display: inline-block;
   opacity: 1;
