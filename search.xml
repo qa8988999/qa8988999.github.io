@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>live2d</title>
+      <link href="/2019/08/09/live2d/"/>
+      <url>/2019/08/09/live2d/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" href="live2d/css/live2d.css"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"><div id="landlord" style="left:5px;bottom:0px;">    <div class="message" style="opacity:0"></div>    <canvas id="live2d" width="500" height="560" class="live2d"></canvas>    <div class="live_talk_input_body">    <div class="live_talk_input_name_body">        <input name="name" type="text" class="live_talk_name white_input" id="AIuserName" autocomplete="off" placeholder="你的名字">        </div>        <div class="live_talk_input_text_body">        <input name="talk" type="text" class="live_talk_talk white_input" id="AIuserText" autocomplete="off" placeholder="要和我聊什么呀？">            <button type="button" class="live_talk_send_btn" id="talk_send">发送</button>        </div>    </div>    <input name="live_talk" id="live_talk" value="1" type="hidden">    <div class="live_ico_box">    <div class="live_ico_item type_info" id="showInfoBtn"></div>    <div class="live_ico_item type_talk" id="showTalkBtn"></div>        <div class="live_ico_item type_music" id="musicButton"></div>        <div class="live_ico_item type_youdu" id="youduButton"></div>        <div class="live_ico_item type_quit" id="hideButton"></div>        <input name="live_statu_val" id="live_statu_val" value="0" type="hidden">        <audio src style="display:none;" id="live2d_bgm" data-bgm="0" preload="none"></audio>        <input name="live2dBGM" value="https://t1.aixinxi.net/o_1c52p4qbp15idv6bl55h381moha.mp3" type="hidden">        <input name="live2dBGM" value="https://t1.aixinxi.net/o_1c52p8frrlmf1aled1e14m56una.mp3" type="hidden">        <input id="duType" value="douqilai,l2d_caihong" type="hidden">    </div></div><div id="open_live2d">召唤蕾姆</div><script type="text/javascript" src="https://apps.bdimg.com/libs/jquery/1.7.1/jquery.min.js"></script><script>var message_Path = 'live2d/';var talkAPI = "";</script><script type="text/javascript" src="live2d/js/live2d.js"></script><script type="text/javascript" src="live2d/js/message.js"></script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>My New Post</title>
+      <link href="/2019/08/09/My-New-Post/"/>
+      <url>/2019/08/09/My-New-Post/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> test4 </category>
+          
+          <category> test5 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> test1 </tag>
+            
+            <tag> test2 </tag>
+            
+            <tag> test3 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>readme</title>
+      <link href="/2019/08/09/README/"/>
+      <url>/2019/08/09/README/</url>
+      
+        <content type="html"><![CDATA[<h1 id="hexo-theme-butterfly"><a href="#hexo-theme-butterfly" class="headerlink" title="hexo-theme-butterfly"></a>hexo-theme-butterfly</h1><p><a href="https://jerryc.me/" target="_blank" rel="noopener">预览</a></p><p>一款基于<a href="https://github.com/Molunerfinn/hexo-theme-melody" target="_blank" rel="noopener">hexo-theme-melody</a>修改的主题</p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>在你的博客根目录里</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone -b master https://github.com/jerryc127/hexo-theme-butterfly.git themes/Butterfly</span><br></pre></td></tr></table></figure><p>如果想要安裝比較新的dev分支，可以</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git clone -b dev https://github.com/jerryc127/hexo-theme-butterfly.git themes/Butterfly</span><br></pre></td></tr></table></figure><h2 id="应用主题"><a href="#应用主题" class="headerlink" title="应用主题"></a>应用主题</h2><p>修改hexo配置文件<code>_config.yml</code>，把主题改为<code>Butterfly</code></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">theme: Butterfly</span><br></pre></td></tr></table></figure><blockquote><p>如果你没有pug以及stylus的渲染器，请下载安装： npm install hexo-renderer-jade hexo-renderer-stylus –save or yarn add hexo-renderer-jade hexo-renderer-stylus</p></blockquote><h2 id="文档"><a href="#文档" class="headerlink" title="文档"></a>文档</h2><p>可查看或<a href="https://docs.jerryc.me/" target="_blank" rel="noopener">这里</a>或<a href="https://jerryc.me/posts/21cfbf15" target="_blank" rel="noopener">这里</a></p><h2 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h2><p><img src="https://user-images.githubusercontent.com/16351105/58887365-1272f780-8718-11e9-9329-3292c6ba20d4.png" alt="image"><br><img src="https://user-images.githubusercontent.com/16351105/58887457-3cc4b500-8718-11e9-9417-2bdea603c92e.png" alt="image"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2019/08/08/hello-world/"/>
+      <url>/2019/08/08/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
