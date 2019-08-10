@@ -69,7 +69,7 @@ h6 code {
 }
 #content-inner .img-alt {
   text-decoration: none;
-  color: #858585;
+  color: #585858;
 }
 #toggle-sidebar {
   position: fixed;
@@ -151,7 +151,7 @@ table {
   border-collapse: collapse;
 }
 table thead {
-  background: rgba(133,133,133,0.1);
+  background: rgba(88,88,88,0.1);
 }
 table th,
 table td {
@@ -2288,7 +2288,7 @@ footer.footer-bg {
 .article-sort-item__time {
   position: absolute;
   top: 0.1rem;
-  color: #858585;
+  color: #585858;
 }
 .article-sort-item__title {
   display: block;
@@ -2312,7 +2312,7 @@ footer.footer-bg {
 }
 .category-list .category-list-count {
   margin-left: 0.4rem;
-  color: #858585;
+  color: #585858;
 }
 .category-list .category-list-count:before {
   content: "(";
@@ -2425,7 +2425,7 @@ footer.footer-bg {
   text-align: center;
 }
 #pagination .space {
-  color: #858585;
+  color: #585858;
 }
 #pagination .page-number {
   display: inline-block;
@@ -2693,7 +2693,7 @@ footer.footer-bg {
   padding-left: 0.3rem;
 }
 a {
-  color: #858585;
+  color: #585858;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
